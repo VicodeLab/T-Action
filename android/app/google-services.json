@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473154866578",
+    "project_id": "t-action-39912",
+    "storage_bucket": "t-action-39912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473154866578:android:5707eb8efd81b1a8dbc54b",
+        "android_client_info": {
+          "package_name": "com.example.t_action"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWrqYyYFTSLNJO9_HQ35YKjGuUor4WdSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
