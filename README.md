@@ -1,10 +1,10 @@
-# t_action
+# T-ACTION
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este proyecto consta de una aplicación para apoyar el ejercitamiento de las habilidades cognitivas de los niños con trastorno del espectro autista (TEA)
 
 A few resources to get you started if this is your first Flutter project:
 
